@@ -3,6 +3,7 @@ This is an application for information extraction from image of Invoice. The Inv
 The app is deployed using hugging face spaces.
 
 Check it out here: https://huggingface.co/spaces/parthib11/InvoiceExtractor
+You can use the example invoice given above or anything else of your choice.
 
 
 ![Screenshot (12)](https://github.com/parthibdhal/InvoiceExtractor/assets/82566738/415b40f9-7e78-4cdb-bd9c-73cf9ec87c1d)
